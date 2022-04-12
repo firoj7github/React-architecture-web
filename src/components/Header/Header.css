@@ -1,0 +1,19 @@
+.nav-item{
+   height: 70px;
+    background-color: rgb(21, 65, 65);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+}
+.nav-item nav{
+    margin-left: 780px;
+   
+}
+.nav-item nav a{
+    text-decoration: none;
+    padding: 28px;
+    color: white;
+    font-size: 17px;
+   
+}
