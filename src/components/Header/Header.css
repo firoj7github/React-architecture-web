@@ -7,12 +7,18 @@
    
 }
 .nav-item nav{
-    margin-left: 780px;
+    margin-left: 790px;
    
+}
+.nav-item img{
+    width: 75px;
+    height: 65px;
+    margin-top: 5px;
+    
 }
 .nav-item nav a{
     text-decoration: none;
-    padding: 28px;
+    padding: 23px;
     color: white;
     font-size: 17px;
    

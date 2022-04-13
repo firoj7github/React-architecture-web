@@ -1,0 +1,77 @@
+.about-side-man{
+    background-color: rgb(248, 246, 239);
+    padding-top: 70px;
+   
+    height: 600px;
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.about-side-man h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 38px;
+
+}
+.about-side-man p{
+    margin-bottom: 100px;
+    opacity: 70%;
+}
+.about-1{
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 230px;
+    margin-right: 80px;
+    width: 450px;
+    margin-left: 165px;
+    margin-bottom: 100px;
+   
+}
+
+
+.about-img-first img{
+    width: 280px;
+    height: 291px;
+    margin-top: -59px;
+    margin-left: 0px;
+    margin-left: -15px;
+    
+}
+.about-img-second img{
+    width: 280px;
+    height: 291px;
+    margin-top: -42px;
+    
+    
+    
+}
+.about-2{
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 230px;
+    width: 450px;
+    
+}
+.about-header p, h4{
+margin-left: -5px;
+}
+.about-header p{
+    width: 150px;
+    margin-top: 25px;
+}
+.about-title p{
+    width: 150px;
+    margin-top: 25px;
+    margin-left: -5px;
+}
+.about-header small{
+ font-size: 17px;
+ font-weight: bold;
+ color: lightseagreen;
+}
+.about-title small{
+ font-size: 17px;
+ font-weight: bold;
+ color: lightseagreen;
+}
