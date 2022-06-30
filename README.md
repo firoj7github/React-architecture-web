@@ -1,5 +1,5 @@
 
-Live Link: https://mellow-stardust-70be3a.netlify.app
+Live Link: https://regal-pothos-7fbcc0.netlify.app/
 code Link : https://github.com/firoj7github/React-architecture-web
 
 
